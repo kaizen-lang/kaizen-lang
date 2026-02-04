@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi 👋, I'm Cesar
 
 **Aspiring Full Stack Developer, always eager to learning new things.**
+
+> "We can go forward"
 
 ## 💻 Tech Stack
 
@@ -22,16 +26,6 @@
 
 ## 🌐 Socials
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](kaizen_lang) 
 
-</div>
-
----
-⭐️ From [Cesar](kaizen_lang)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kaizen_lang/count.svg" alt="Visitor Count" />
 </div>
